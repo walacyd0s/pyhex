@@ -39,6 +39,5 @@ botao.place(width=80, height=20, x=160, y=50)
 texto_senha = Entry(janela, fg='red')
 texto_senha.place(width=300, height=20, x=50, y=90)
 
-
 janela.resizable(False, False)
 janela.mainloop()
